@@ -1,0 +1,15 @@
+D:\prog\js training\c# training\TaskPlayerManager\Run\bin\Debug\net9.0\Run.exe
+D:\prog\js training\c# training\TaskPlayerManager\Run\bin\Debug\net9.0\Run.deps.json
+D:\prog\js training\c# training\TaskPlayerManager\Run\bin\Debug\net9.0\Run.runtimeconfig.json
+D:\prog\js training\c# training\TaskPlayerManager\Run\bin\Debug\net9.0\Run.dll
+D:\prog\js training\c# training\TaskPlayerManager\Run\bin\Debug\net9.0\Run.pdb
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.AssemblyInfoInputs.cache
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.AssemblyInfo.cs
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.csproj.CoreCompileInputs.cache
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.sourcelink.json
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.dll
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\refint\Run.dll
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.pdb
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\Run.genruntimeconfig.cache
+D:\prog\js training\c# training\TaskPlayerManager\Run\obj\Debug\net9.0\ref\Run.dll
